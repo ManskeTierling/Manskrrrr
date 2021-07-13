@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Manskrrrr
-- 👀 I’m interested in python, web develop, data science.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on enterlevel python projects
-- 📫 How to reach me henrique.manske.tierling@gmail.com
+Ola meu nome é Henrique, estou no começo dos meus estudos em analise de dados (estudo apenas a 2 semanas).
+Esse case me ajudou a enchergar onnde devo melhorar. agradeço pela oportunidade de participar.
